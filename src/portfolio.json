@@ -1,0 +1,107 @@
+[
+  {
+    "id": "shop-lubetech",
+    "title": "Shop LubeTech",
+    "blurb": "eCommerce website for LubeTech used by both customers and internal salespeople. Replaced traditional .NET MVC website with more modern Angular SPA front-end and .NET Core API. Significantly faster for the user while being less resource-intensive.",
+    "technologies": {
+      "angular": true,
+      "vue": false,
+      "dotnet": true,
+      "firebase": false,
+      "ionic": false
+    },
+    "screenshots": {
+      "desktop": [],
+      "mobile": []
+    },
+    "publicLink": "https://shop.lubetech.com/",
+    "githubLink": "",
+    "category": "enterprise",
+    "sequence": 1,
+    "visible": true
+  },
+  {
+    "id": "lt-multi-tenant",
+    "title": "LubeTech Multi-Tenant",
+    "blurb": "Rewrite of LubeTech eCommerce for multiple internal companies, all sharing the same code base. Significant improvements in user inferface, speed, and performance. Hybrid mobile and web implementation.",
+    "technologies": {
+      "angular": true,
+      "vue": false,
+      "dotnet": true,
+      "firebase": false,
+      "ionic": true
+    },
+    "screenshots": {
+      "desktop": [],
+      "mobile": []
+    },
+    "publicLink": "",
+    "githubLink": "",
+    "category": "enterprise",
+    "sequence": 2,
+    "visible": true
+  },
+  {
+    "id": "mighty-sales",
+    "title": "Mighty Sales",
+    "blurb": "Progressive web application which allows the Mighty salesperson to rapidly enter orders, whether connected to the internet or not.",
+    "technologies": {
+      "angular": true,
+      "vue": false,
+      "dotnet": true,
+      "firebase": false,
+      "ionic": true
+    },
+    "screenshots": {
+      "desktop": [],
+      "mobile": []
+    },
+    "link": "",
+    "githubLink": "",
+    "category": "enterprise",
+    "sequence": 3,
+    "visible": false
+  },
+  {
+    "id": "www-timer",
+    "title": "www-timer",
+    "blurb": "Custom pomodoro timer which allows the user to customize their pomodoro workflow.",
+    "technologies": {
+      "angular": false,
+      "vue": true,
+      "dotnet": false,
+      "firebase": true,
+      "ionic": false
+    },
+    "screenshots": {
+      "desktop": [],
+      "mobile": []
+    },
+    "link": "https://timer.worldwidewebers.io/",
+    "githubLink": "https://github.com/WorldWideWebers/www-timer",
+    "category": "non-enterprise",
+    "sequence": 1,
+    "visible": true
+  },
+  {
+    "id": "bar-cribbage",
+    "title": "Bar Cribbage",
+    "blurb": "Play five simultaneous cribbage hands, one card at a time. Score will be kept automatically.",
+    "technologies": {
+      "angular": true,
+      "vue": false,
+      "dotnet": false,
+      "firebase": true,
+      "ionic": false
+    },
+    "screenshots": {
+      "desktop": [],
+      "mobile": []
+    },
+    "link": "https://barcribbage.com/",
+    "githubLink": "",
+    "category": "non-enterprise",
+    "sequence": 2,
+    "visible": true
+  }
+]
