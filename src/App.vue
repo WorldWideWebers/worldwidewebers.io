@@ -4,7 +4,7 @@
             <Aside></Aside>
         </aside>
         <section id="content">
-            <nav>
+            <!-- <nav>
                 <div>
                     <router-link to="/">
                         <span :class="{ activeNavLink: currentPage === 'portfolio' }"
@@ -15,7 +15,7 @@
                             @click="changeCurrentPage('documents')">Documents</span>
                     </router-link>
                 </div>
-            </nav>
+            </nav> -->
             <div id="router-container">
                 <RouterView />
             </div>
@@ -51,6 +51,7 @@ aside {
     background: black;
     color: white;
     opacity: .825;
+    padding: 0 1rem;
 }
 
 #content {
@@ -79,7 +80,26 @@ nav a {
 }
 
 #router-container {
-    padding: 1rem;
+    padding: 1.5rem;
     padding-top: 0;
+}
+
+@media only screen and (max-width: 1000px) {
+  main {
+    flex-direction: column;
+    width: 100%;
+    height: initial;
+  }
+
+  aside {
+    background: none;
+    width: 100%;
+    padding: 0;
+    padding-top: 1rem;
+  }
+
+  #router-container {
+    padding-bottom: 0;
+  }
 }
 </style>
