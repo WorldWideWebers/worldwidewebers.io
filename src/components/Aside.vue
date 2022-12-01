@@ -19,7 +19,7 @@
             <a href="https://github.com/WorldWideWebers" class="circle-button">
                 <ion-icon name="logo-github"></ion-icon>
             </a>
-            <a href="#" class="circle-button">
+            <a href="https://linkedin.com/company/89857628" class="circle-button">
                 <ion-icon name="logo-linkedin"></ion-icon>
             </a>
         </div>
