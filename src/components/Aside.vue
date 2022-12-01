@@ -13,9 +13,6 @@
             <a href="https://ionicframework.com/" target="_blank"><img src="../assets/ionic-logo.png" /></a>
         </div>
         <div id="contact">
-            <a href="tel:7632185933" class="circle-button">
-                <ion-icon name="call"></ion-icon>
-            </a>
             <a href="mailto:admin@worldwidewebers.io" class="circle-button">
                 <ion-icon name="mail"></ion-icon>
             </a>
