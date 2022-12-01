@@ -60,7 +60,6 @@ const toggleScreenshots = (val) => {
     flex-direction: column;
     padding: 1.5rem;
     width: 50%;
-    overflow-y: scroll;
 }
 
 h1 {

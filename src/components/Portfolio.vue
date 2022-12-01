@@ -92,6 +92,7 @@ const setCurrentPortfolioItem = (id) => {
     right: 0;
     bottom: 0;
     animation: fadeIn .5s;
+    overflow-y: scroll;
 }
 
 #overlay-close {
