@@ -11,8 +11,12 @@
       "ionic": false
     },
     "screenshots": {
-      "desktop": [],
-      "mobile": []
+      "desktop": [
+        "shop-lubetech"
+      ],
+      "mobile": [
+        "shop-lubetech-mobile"
+      ]
     },
     "publicLink": "https://shop.lubetech.com/",
     "githubLink": "",
@@ -32,8 +36,13 @@
       "ionic": true
     },
     "screenshots": {
-      "desktop": [],
-      "mobile": []
+      "desktop": [
+        "lt-multi-tenant",
+        "lt-multi-tenant1"
+      ],
+      "mobile": [
+        "lt-multi-tenant-mobile1"
+      ]
     },
     "publicLink": "",
     "githubLink": "",
@@ -74,8 +83,14 @@
       "ionic": false
     },
     "screenshots": {
-      "desktop": [],
-      "mobile": []
+      "desktop": [
+        "www-timer",
+        "timer-desktop1"
+      ],
+      "mobile": [
+        "timer-mobile1",
+        "timer-mobile2"
+      ]
     },
     "link": "https://timer.worldwidewebers.io/",
     "githubLink": "https://github.com/WorldWideWebers/www-timer",
@@ -95,8 +110,12 @@
       "ionic": false
     },
     "screenshots": {
-      "desktop": [],
-      "mobile": []
+      "desktop": [
+        "bar-cribbage"
+      ],
+      "mobile": [
+        "bar-cribbage-mobile"
+      ]
     },
     "link": "https://barcribbage.com/",
     "githubLink": "",
